@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(66, 71, 171);
+}
+h1{
+    color:  white;
+}
+.Campos{
+    border: 0;
+    background-color: #eee;
+    outline: 0;
+}
+p{
+    color: #eee;
+}
