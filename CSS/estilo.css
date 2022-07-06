@@ -12,3 +12,30 @@ h1{
 p{
     color: #eee;
 }
+#imagen1{
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+#lista1{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 13px;
+}
+.separador{
+    color: gray;
+}
+#lista1 li{
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color:rgb(53, 208, 10);
+}
+
+a{
+    color: white;
+    text-decoration:none;
+}
+a:hover{
+    background-color: lightgray;
+}
