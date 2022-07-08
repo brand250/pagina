@@ -1,6 +1,10 @@
 body{
     background-color:rgb(66, 71, 171);
 }
+#cabezera{
+    background-color: rgb(243, 53, 110);
+}
+
 h1{
     color:  white;
 }
